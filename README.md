@@ -4,7 +4,6 @@ A text-to-speech system is designed to convert written text into spoken words. I
 
 Packages used:
 
-speech_recognition as sr
 
 pyttsx3
 pywhatkit
