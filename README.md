@@ -4,10 +4,11 @@ A text-to-speech system is designed to convert written text into spoken words. I
 
 Packages used:
 
-import speech_recognition as sr
-import pyttsx3
-import pywhatkit
-import datetime
-import wikipedia
-import pyjokes
+speech_recognition as sr
+
+pyttsx3
+pywhatkit
+datetime
+wikipedia
+pyjokes
 
